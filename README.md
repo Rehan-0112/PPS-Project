@@ -1,4 +1,3 @@
-readme_text = """
 # Coin Collector
 
 A simple and fun 2D coin collection game built with **Pygame**. Move your player around, collect coins before the timer runs out, and try to get the highest score possible!
